@@ -1,0 +1,5 @@
+com\ltanner\mvnProjet\service\FriendsService.class
+com\ltanner\mvnProjet\entity\Friend.class
+com\ltanner\mvnProjet\repository\FriendRepository.class
+com\ltanner\mvnProjet\App.class
+com\ltanner\mvnProjet\controllers\FriendsController.class
